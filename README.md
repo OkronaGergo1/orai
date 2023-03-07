@@ -1,1 +1,2 @@
 # orai
+beleírok valamit
